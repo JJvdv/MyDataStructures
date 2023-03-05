@@ -3,6 +3,4 @@
 ## Data Structure solutions in C++:
 ### Binary search.
 ### Sequential search.
-#### Functions that use the sequential search:
-#### insert()
-#### remove()
+

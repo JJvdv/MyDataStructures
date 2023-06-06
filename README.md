@@ -1,5 +1,5 @@
 # my-data-structures
-### Main stays clean. Each Data structure solution is its own branch.
+### Each Data structure solution is its own branch.
 ## Data Structure solutions in C++:
 ### Binary search.
 ### Sequential search.
